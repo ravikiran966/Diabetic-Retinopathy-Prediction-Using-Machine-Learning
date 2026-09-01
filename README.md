@@ -396,11 +396,6 @@ The model should not be used as a substitute for professional medical diagnosis 
 
 **Ravikiran Y**
 
-MCA Graduate | Aspiring Data Analyst
-
-* GitHub: https://github.com/ravikiran966
-* LinkedIn: https://linkedin.com/in/ravikiran-y
-* Crio Portfolio: https://www.crio.do/learn/portfolio/ravikiran-y-966/
 
 ---
 
